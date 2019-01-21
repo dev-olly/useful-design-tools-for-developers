@@ -2,7 +2,6 @@
 
 _This is intended to show websites and tools which will be useful for developers and designers_
 
-## Table Of Contents
 
 1. ILLUSTRATION DESIGNS FOR DEVELOPERS
 
@@ -24,6 +23,18 @@ _This is intended to show websites and tools which will be useful for developers
 
     * [illustrio](https://illustrio.com/)
 
-    * [ikonate](https://ikonate.com/)
+    * [Visualpharm](https://visualpharm.com/)
+
+3. FREE SITES FOR DESIGN INSPIRATION
+
+    * [Dribble](https://dribble.com/)
+
+    * [Behance](https://behance.com/)
+
+    * [UI STORE](https://www.uistore.design/)
+
+    * [Mobbin](https://www.mobbin.design/)
+
+
 
 
