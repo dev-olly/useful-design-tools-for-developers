@@ -24,6 +24,8 @@ _This is intended to show websites and tools which will be useful for developers
     * [illustrio](https://illustrio.com/)
 
     * [Visualpharm](https://visualpharm.com/)
+    
+    * [FlatIcon](http://flaticon.com/)
 
 3. FREE SITES FOR DESIGN INSPIRATION
 
